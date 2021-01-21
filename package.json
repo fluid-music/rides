@@ -1,7 +1,7 @@
 {
-  "name": "fluid-music-rides",
-  "version": "1.0.0",
-  "description": "ride cymbals and reversed ride cymbals, packaged for fluid-music",
+  "name": "@fluid-music/rides",
+  "version": "0.0.1",
+  "description": "Ride cymbals and reversed ride cymbals, packaged for fluid-music",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fluid-music/rides/issues"
   },
-  "homepage": "https://github.com/fluid-music/rides#readme"
+  "homepage": "https://github.com/fluid-music/rides#readme",
+  "peerDependencies": {
+    "fluid-music": "^0.9.2"
+  }
 }
