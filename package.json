@@ -1,0 +1,22 @@
+{
+  "name": "fluid-music-rides",
+  "version": "1.0.0",
+  "description": "ride cymbals and reversed ride cymbals, packaged for fluid-music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluid-music/rides.git"
+  },
+  "keywords": [
+    "fluid-music"
+  ],
+  "author": "Charles Holbrow",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fluid-music/rides/issues"
+  },
+  "homepage": "https://github.com/fluid-music/rides#readme"
+}
